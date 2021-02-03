@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class Exercise3_12Test {
 
     public static void main(String[] args) {

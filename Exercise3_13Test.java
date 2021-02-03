@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class Exercise3_13Test {
     public static void main(String[] args) {
         Exercise3_13 employee1 = new Exercise3_13("james", "brown", 20000.00);

@@ -1,7 +1,5 @@
 // Fig. 3.9: AccountTest.java
 // Inputting and outputting floating-point numbers with Account objects.
-import java.util.Arrays;
-import java.util.Scanner;
 
 
 public class Exercise3_11Test {
